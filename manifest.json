@@ -1,0 +1,13 @@
+{
+  "name": "AlgoTrade — Algorithmic Trading Terminal",
+  "short_name": "AlgoTrade",
+  "description": "Live stock market algorithmic trading terminal. Real data, no API key required.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#020509",
+  "theme_color": "#020509",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
